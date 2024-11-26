@@ -41,3 +41,9 @@ This reading list represents a comprehensive overview of fundamental AI concepts
 The CS231n course notes serve as an excellent practical foundation before diving into the papers. For someone starting out, I recommend beginning with the blog posts (Karpathy's RNN post, Olah's LSTM post) before tackling the more technical papers.
 
 This approach of first understanding the high-level concepts before diving into mathematical details is sound. It will help build intuition before exploring the deeper theoretical foundations.
+
+---
+
+# Sources
+- Original list forked from: https://github.com/dzyim/ilya-sutskever-recommended-reading/
+- Links merged from: https://github.com/dzyim/ilya-sutskever-recommended-reading/pull/1/commits/2cf1f4117abaf182589656b9b1219dbd3d380162
